@@ -8,7 +8,7 @@ const width = 10
 let appleIndex = 0
 let score = 0
 let intervalTime = 1000
-let speed = 0.4
+let speed = 0.7
 let timerId = 0
 
 function createGrid() {
